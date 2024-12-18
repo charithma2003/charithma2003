@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 # Hi there 👋 It's me Charithma Kariyawasam 
 **Software Engineering Student @ Java Institute of Advanced Technology**
 
